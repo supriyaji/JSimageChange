@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+ #myImage{
+    width: 400px;
+    height: 400px;
+} 
+button{
+    background: #f8b627;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 1.3rem;
+}
+h1{
+    color:gray;
+}
